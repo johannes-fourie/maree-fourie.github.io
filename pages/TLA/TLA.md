@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "TLA+"
+title: "TLA⁺"
 permalink: /TLA/
 ---
 This is math

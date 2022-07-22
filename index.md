@@ -8,7 +8,7 @@
 layout: home
 ---
 
-# Things
-## TLA
+[TLA$^+$]({%link pages/TLA/TLA.md %})
 
-- [TLA+]({%link pages/TLA/TLA.md %})
+Cloud design patterns
+- [Ambassador pattern]({%link pages/CloudDesginPatterns/AmbassadorPattern.md %})
