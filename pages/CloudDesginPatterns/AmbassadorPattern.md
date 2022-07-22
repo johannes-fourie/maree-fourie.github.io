@@ -15,11 +15,7 @@ This pattern can be useful for offloading common client connectivity tasks such 
 
 
 
-{% plantuml %}
-@startuml
-[First] - [Second]
-@enduml
-{% endplantuml %}
+
 
 ## References
 
