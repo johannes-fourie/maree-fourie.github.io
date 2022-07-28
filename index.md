@@ -15,4 +15,4 @@ Cloud design patterns
 
 Coding Basics
 - [w3schools C# Tutorial](https://www.w3schools.com/cs/index.php)
-- [if]({%link pages/CodingBasics/ContolFlow.md %})
+- [if...else]({%link pages/CodingBasics/ContolFlow.md %})
