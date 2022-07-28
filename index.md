@@ -12,3 +12,7 @@ layout: home
 
 Cloud design patterns
 - [Ambassador pattern]({%link pages/CloudDesginPatterns/AmbassadorPattern.md %})
+
+Coding Basics
+- [w3schools C# Tutorial](https://www.w3schools.com/cs/index.php)
+- [if]({%link pages/CodingBasics/ContolFlow.md %})
