@@ -13,6 +13,4 @@ layout: home
 Cloud design patterns
 - [Ambassador pattern]({%link pages/CloudDesginPatterns/AmbassadorPattern.md %})
 
-Coding Basics
-- [w3schools C# Tutorial](https://www.w3schools.com/cs/index.php)
-- [if...else]({%link pages/CodingBasics/ContolFlow.md %})
+[Coding Basics]({%link pages/CodingBasics/CodingBasicsIndex.md%})
